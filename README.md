@@ -1,8 +1,8 @@
 # Route Planning Project
 
-This repo contains the code for the Route Planning project.
+This repo contains the code for the finished Route Planning project. It uses the A* Search Algorithm to find the distance between 2 points, given as input with the coordinate on the X and Y axis.
 
-<img src="map.png" width="600" height="450" />
+<img src="WorkingOpenStreetMapPlanner.gif" width="600" height="450" />
 
 ## Cloning
 
