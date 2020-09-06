@@ -2,7 +2,7 @@
 
 This repo contains the code for the finished Route Planning project. It uses the A* Search Algorithm to find the distance between 2 points, given as input with the coordinate on the X and Y axis.
 
-<img src="WorkingOpenStreetMapPlanner.gif" width="600" height="450" />
+<img src="WorkingOpenStreetMapPlanner.gif" width="1000" height="600" />
 
 ## Cloning
 
